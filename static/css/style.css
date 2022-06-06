@@ -1,0 +1,39 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background-color: lightgoldenrodyellow;
+    /* color: darkgray; */
+}
+
+.container {
+    
+    align-items: center;
+    justify-content: center;
+    /* display: flex; */
+}
+
+.col {
+    background-color: purple;
+
+}
+
+.row {
+    background-color: aquamarine;
+}
+
+table tr td {
+    /* width: 50%; */
+    width: 50px;
+    height: 50px;
+
+}
+
+/* .board::after {
+    content: "";
+    display: block;
+    padding-bottom: 30%;
+
+} */
